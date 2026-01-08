@@ -1,0 +1,42 @@
+.certifications {
+  max-width: 1100px;
+  margin: 100px auto;
+  padding: 0 40px;
+}
+
+.certifications h2 {
+  font-size: 36px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.certification-card {
+  max-width: 800px;
+  margin: 0 auto 20px auto;
+  padding: 22px 26px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.certification-card h3 {
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+
+.certification-meta {
+  font-size: 14px;
+  opacity: 0.8;
+}
+.certification-link {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #8a2be2;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.certification-link:hover {
+  text-decoration: underline;
+}
