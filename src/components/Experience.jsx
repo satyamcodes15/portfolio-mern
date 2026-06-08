@@ -2,18 +2,25 @@ import { motion } from "framer-motion";
 import "../styles/experience.css";
 const experienceData = [
   {
+    company: "HCL Technologies",
+    role: "Software Development Intern",
+    duration: "Jan 2026 – Apr 2026",
+    description:
+      "Built an AI-powered customer engagement chatbot using React.js, Python, and AI APIs. Automated query resolution workflows and gained hands-on experience in agile software development.",
+  },
+  {
     company: "Alteryx",
-    role: "Intern",
+    role: "Data Analytics Intern",
     duration: "2025",
     description:
-      "Worked on data analytics workflows and gained hands-on experience with Alteryx tools, focusing on data preparation, analysis, and automation.",
+      "Worked on data preparation, workflow automation, and analytics using Alteryx tools to improve business data processing.",
   },
   {
     company: "Cognifyz Technologies",
     role: "Full Stack Intern",
     duration: "2025",
     description:
-      "Worked on full-stack web development projects using modern technologies, strengthening skills in frontend, backend, and real-world application development.",
+      "Developed full-stack web applications and strengthened frontend, backend, and database development skills through practical projects.",
   },
 ];
 

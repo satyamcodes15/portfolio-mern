@@ -1,6 +1,12 @@
 import "../styles/certifications.css";
 const certificationsData = [
   {
+    title: "AI & Large Language Models Certificate",
+    issuer: "HCL Certification",
+    year: "2026",
+    file: "/HCL_Certificate.pdf",
+  },
+  {
     title: " Alteryx Internship Certificate",
     issuer: "Satyam Internship",
     year: "2025",

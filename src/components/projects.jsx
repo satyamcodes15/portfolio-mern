@@ -5,16 +5,30 @@ const projectsData = [
   {
     title: "AgroVision",
     description:
-      "A smart agriculture management platform connecting farmers and vendors with real-time features.",
+      "A smart agriculture management platform connecting farmers and vendors with crop trading, weather forecasting, market trends, and real-time communication features.",
     live: "https://agrovision-frontend.netlify.app",
-    github: "https://github.com/satyamcodes15",
+    github: "https://github.com/satyamcodes15/agrovision-frontend.git",
+  },
+  {
+    title: "Risk Sentinel – Banking Risk Policy Intelligence System",
+    description:
+      "An AI-powered banking risk analysis platform that helps organizations analyze policies, identify risks, and gain intelligent insights through interactive dashboards.",
+    live: "https://banking-risk-analysis.netlify.app",
+    github: "https://github.com/satyamcodes15/risk-policy-qa-frontend.git",
+  },
+  {
+    title: "Magicpin Vera AI Challenge",
+    description:
+      "An AI-powered merchant messaging platform designed to automate business communication, generate intelligent responses, and improve merchant engagement.",
+    live: "https://magicipin-vera-ai-dashboard.netlify.app/",
+    github: "https://github.com/satyamcodes15/magicpin-vera-ai-bot.git",
   },
   {
     title: "Portfolio Website",
     description:
-      "My personal MERN portfolio with animations, clean UI, and real backend integration.",
-    live: "#",
-    github: "#",
+      "A modern React portfolio showcasing projects, experience, certifications, and technical skills with a responsive and professional design.",
+    live: "https://satyamkachhiportfolio.netlify.app/",
+    github: "https://github.com/satyamcodes15/portfolio-mern.git",
   },
 ];
 
